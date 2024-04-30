@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   
+}
+body{
+    background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+
+}
+  
+.custom-gradient{
+    background-image: linear-gradient(to top, #fbf996 0%, #f9aa86 100%);
+
+}
